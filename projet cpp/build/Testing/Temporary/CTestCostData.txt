@@ -1,0 +1,14 @@
+structure_test 4 0.000857414
+UnitaryTest 2 0.00121649
+--- Calcul de l'équation au temps : 2 ---.ix_iu_upwindu_laxwendroffu_exact 1 0.00312923
+--- Calcul de l'équation au temps : 2 ---.002.47065e-052.02069e-054.65572e-07 1 0.00263962
+--- Calcul de l'équation au temps : 2 ---.10.52.04351e-059.66741e-067.94939e-07 1 0.004235
+--- Calcul de l'équation au temps : 2 ---.211.18453e-054.08316e-051.34381e-06 1 0.00300821
+--- Calcul de l'équation au temps : 2 ---.31.56.06517e-081.5279e-062.24906e-06 1 0.00292201
+--- Calcul de l'équation au temps : 2 ---.421.35849e-072.47267e-063.72665e-06 1 0.00332097
+--- Calcul de l'équation au temps : 2 ---.52.52.85409e-073.96923e-066.11357e-06 1 0.00304182
+--- Calcul de l'équation au temps : 2 ---.635.72394e-076.31986e-069.9295e-06 1 0.00318852
+--- Calcul de l'équation au temps : 2 ---.73.51.10681e-069.98062e-061.59668e-05 1 0.00320144
+--- Calcul de l'équation au temps : 2 ---.842.07646e-061.56331e-052.54193e-05 1 0.00334726
+--- Calcul de l'équation au temps : 2 ---.94.53.79543e-062.42859e-054.00653e-05 1 0.00298325
+---
